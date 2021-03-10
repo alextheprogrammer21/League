@@ -41,9 +41,9 @@ export default function ButtonAppBar() {
           <Typography variant="h6" className={classes.title}>
             Travel Booking
           </Typography>
-          <Button id="links">item1</Button>
-          <Button id="links">item2</Button>
-          <Button id="links">item3</Button>
+          <Button id="links">Login</Button>
+          <Button id="links">Signup</Button>
+          <Button id="links">Make Announcement</Button>
           <Button id="links">item4</Button>
           <Avatar />
         </Toolbar>
